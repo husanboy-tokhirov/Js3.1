@@ -1,4 +1,15 @@
 //Misol 1
+// let a = +prompt("Ikki xonali son kiriting:");
+// if (a >= 10 && a <= 99) {
+//     let onlik = Math.floor(a / 10); 
+//     let birlik = a % 10; 
+
+//     let kattaSon = onlik > birlik ? onlik : birlik;
+
+//     document.write(`<h2>Katta son: ${kattaSon}</h2>`);
+// } else {
+//     document.write(`<h2>Iltimos, ikki xonali son kiriting!</h2>`);
+// }
 
 //Misol 2
 // let a = +prompt("Son kiriting:");
